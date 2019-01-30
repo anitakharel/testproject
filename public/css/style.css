@@ -1,0 +1,25 @@
+
+@charset "utf-8";
+
+.content{
+	padding: 2% 0;
+	background: #fbf4f4;
+	min-height: -webkit-fill-available;
+}
+
+.img-show img{
+	max-width: 100%;
+}
+img#output{
+	max-width: 100%;
+}
+.panel-head{
+	border-radius: 0px !important;
+	background: #459e45 !important;
+}
+.panel-head h3{
+	color: #fff;
+}
+.btnaddnew{
+	margin-bottom: 2%;
+}
